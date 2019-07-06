@@ -1,0 +1,18 @@
+{
+  "name": "Politico_Staff_Bios_Web_Scrape",
+  "version": "1.0.0",
+  "description": "This will get all the staff of politico details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ellen Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "extend": "^3.0.0",
+    "json2csv": "^3.2.0",
+    "request": "latest"
+  }
+}
